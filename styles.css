@@ -1,0 +1,25 @@
+body {
+    background-color: #1a1a1a;
+    color: cyan;
+    font-family: cursive, "Courier New", sans-serif;
+    margin: 0;
+}
+
+#top {
+    background-color: black;
+    padding: 20px;
+    box-shadow: 0 5px 50px;
+    font-size: 2em;
+    text-align: center;
+    text-shadow: 0 0 200px;
+}
+
+.item {
+    background-color: black;
+    border: 5px dashed #b700ff;
+    border-radius: 20px;
+    width: fit-content;
+    margin: 100px auto 0;
+    box-shadow: 0 0 20px;
+    padding: 10px;
+}
