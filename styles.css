@@ -8,6 +8,10 @@ body {
     flex-direction: column;
 }
 
+a {
+    color: dodgerblue;
+}
+
 .header-footer {
     background-color: black;
     padding: 1em;
