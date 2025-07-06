@@ -25,6 +25,7 @@ header {
 }
 
 .about {
+    width: 70%;
     margin: 3em auto 0;
     text-align: center;
     color: white;
