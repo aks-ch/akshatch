@@ -1,7 +1,7 @@
 body {
     background-color: #1a1a1a;
     color: cyan;
-    font-family: cursive, "Courier New", sans-serif;
+    font-family: "Comic Sans MS", system-ui;
     margin: 0;
     min-height: 100vh;
     display: flex;
